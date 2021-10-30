@@ -6,5 +6,7 @@
  */
 //选择排序
 public class SelectSort {
+    public void selectSort(int[] array){
 
+    }
 }
