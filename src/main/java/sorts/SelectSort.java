@@ -1,4 +1,4 @@
-import sorts.Help;
+package sorts;
 
 /**
  * @author 曹文艳   (caowy@cloud-young.com)
